@@ -1,4 +1,4 @@
-# Projetos-IA
+# Projects
 
 ## Description
 
